@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rivensoft.Web.Public", "Rivensoft.Web.Public\Rivensoft.Web.Public.csproj", "{BFBCA7E0-2557-4F9D-84A4-9B1D1EC869DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBCA7E0-2557-4F9D-84A4-9B1D1EC869DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBCA7E0-2557-4F9D-84A4-9B1D1EC869DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBCA7E0-2557-4F9D-84A4-9B1D1EC869DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBCA7E0-2557-4F9D-84A4-9B1D1EC869DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
