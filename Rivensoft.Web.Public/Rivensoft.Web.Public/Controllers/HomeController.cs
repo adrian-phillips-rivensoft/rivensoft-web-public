@@ -14,12 +14,25 @@ namespace Rivensoft.Web.Public.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
-
             return View();
         }
 
         public ActionResult About()
+        {
+            return View();
+        }
+
+        public ActionResult Clients()
+        {
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            return View();
+        }
+
+        public ActionResult Development()
         {
             return View();
         }
