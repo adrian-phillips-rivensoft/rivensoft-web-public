@@ -36,5 +36,10 @@ namespace Rivensoft.Web.Public.Controllers
         {
             return View();
         }
+
+        public ActionResult SiteMap()
+        {
+            return View();
+        }
     }
 }

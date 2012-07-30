@@ -93,10 +93,14 @@ img
     border: 0;
 }
 
+#main-header
+{
+    width: 961px;
+}
+
 #main-container
 {
     width: 912px;
-    min-height: 300px;
     margin: 24px 16px 32px 16px;
 }
 
