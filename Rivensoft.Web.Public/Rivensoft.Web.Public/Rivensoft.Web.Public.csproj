@@ -72,7 +72,7 @@
   <ItemGroup>
     <Content Include="Content\Images\body-background.png" />
     <Content Include="Content\Images\chocolate-stripe.png" />
-    <Content Include="Content\Images\main.png" />
+    <Content Include="Content\Images\main.jpg" />
     <Content Include="Content\Images\rivensoft-logo-large.png" />
     <Content Include="Content\Images\rivensoft-logo-medium.png" />
     <Content Include="Content\Images\rivensoft-logo-small.png" />
