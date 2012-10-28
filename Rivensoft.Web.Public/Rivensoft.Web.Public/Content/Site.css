@@ -173,3 +173,14 @@ img
     height: 16px;
     background-color: #DDDDDD;
 }
+
+#certification
+{
+    margin-top: 10px;
+    float: right;
+}
+
+#certification img
+{
+    margin-left: 20px;
+}
